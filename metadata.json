@@ -1,0 +1,5 @@
+{
+  "name": "InnoDB Internals Visualizer",
+  "description": "A visual simulation of the InnoDB storage engine, demonstrating B+Tree leaf node mechanics, record insertion, and page splitting dynamics.",
+  "requestFramePermissions": []
+}
